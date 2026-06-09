@@ -166,17 +166,6 @@ prediction = model.predict(scaler.transform(new_data))
 
 ---
 
-## Project Structure
-
-```
-📁 wine-quality-prediction/
-├── Wine_Quality_Prediction_ML_Project.ipynb   # Main notebook
-├── wine_quality_classifier.pkl                # Saved tuned classifier
-├── scaler.pkl                                 # Saved StandardScaler
-└── README.md
-```
-
----
 
 ## Key Takeaways
 
